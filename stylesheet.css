@@ -1,0 +1,29 @@
+html,body{
+    background:url('https://jiyusurabaya.com/wp-content/uploads/revslider/home_polo/pattern.jpg') no-repeat center center;
+    min-height:100%;
+    background-size:cover;}
+h1{
+    font-size: 30px;
+    font-family:Prosto One;
+    line-height:55px;
+    color:navy;
+    margin-left: 10px;}
+table.first {
+    border:0;
+    margin:10px}
+.first td{border:0}
+table.second {
+    width: device-width;
+    background-color:ivory;
+    border-collapse: collapse;
+    border: 1px solid grey;
+    margin: 10px
+}
+.second td {
+    border:1px solid grey;
+    padding: 10px;}
+p{margin-left: 10px;}
+img {
+    display: block;
+    max-width: 140px;
+    margin: 0 auto;}
